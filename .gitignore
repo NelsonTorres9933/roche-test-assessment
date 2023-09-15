@@ -8,6 +8,10 @@ reports
 reports/*
 package-lock.json
 
+# Allure-report folder
+allure-report
+allure-results
+
 # Log files
 logs
 logs.txt
